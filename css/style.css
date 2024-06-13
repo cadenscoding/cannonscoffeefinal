@@ -207,7 +207,7 @@ color:white;
     margin:0;
     background: #06327d;
     position: absolute;
-    right: -100%;
+    display: -100%;
     top: 152px;
     width: 50%;
  height: calc(82% - 152px); 
