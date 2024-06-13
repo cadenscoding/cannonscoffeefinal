@@ -90,4 +90,9 @@ border:#06327d solid 2px;}
 }
 @media(max-width:415px){
   form{width:70%}
-}
+  header{display:grid;
+    grid-template-rows:1fr 1fr 1fr;
+      }
+      h1{grid-row:2/3;}
+      nav{grid-row:3/4;}
+      }
